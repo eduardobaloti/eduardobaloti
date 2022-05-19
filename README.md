@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" height="140px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+
 
 ## I´m a computer science student that works as back-end
 
@@ -5,7 +7,6 @@
 - 📚 I started programming games with 13/14 years old
 - 🎮 I like to play indie games and watch animes in my free time
 
-<img align="right" alt="GIF" height="160px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
 
 ---
