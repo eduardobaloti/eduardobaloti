@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="140px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<img align="center" alt="GIF" height="140px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
 
 ## I´m a computer science student that works as back-end
