@@ -2,9 +2,6 @@
 
 ## I´m a computer science student that works as back-end
 
-<img align="right" alt="GIF" height="140px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
-
-
 - ♟ My main technology is C# but now I am trying to learn elixir
 - 📚 I started programming games with 13/14 years old
 - 🎮 I like to play indie games and watch animes in my free time
