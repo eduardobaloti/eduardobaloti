@@ -1,11 +1,10 @@
 
 
-## I´m a computer science student that works as back-end
+## Yo, My name is Eduardo and I work as Back-end and gameDev
 
-- ♟ My main technology is C# but now I am trying to learn elixir
+- ♟ My main technology is C# but I know some JavaScript and Python too
 - 📚 I started programming games with 13/14 years old
-- 🎮 I like to play indie games and watch animes in my free time
-
+- 🎮 I like to play indie games, watch animes and play card games in my free time
 
 
 ---
