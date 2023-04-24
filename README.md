@@ -18,7 +18,7 @@
 
 ### Languages and Tools 🛠
 
-<div>
+<div align="center">
     <img align=top
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         width="40" height="40" /> <br/>
