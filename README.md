@@ -18,7 +18,7 @@
 
 ### Languages and Tools 🛠
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="vertical"><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="Unity" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"
