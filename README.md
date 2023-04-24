@@ -20,6 +20,8 @@
     align="right"
 />
 
+<br />
+
 --- 
 
 ### Languages and Tools 🛠
