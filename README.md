@@ -12,8 +12,8 @@
     🎮 I like to play indie games, watch animes and play card games in my free time
 </p>
 
-<img src="https://i.pinimg.com/originals/00/05/3b/00053bfd16ab1eb04dc1e17a1dd8e3d5.gif" min-width="500px"
-    max-width="500px" width="500px" align="right">
+<img src="https://i.pinimg.com/originals/00/05/3b/00053bfd16ab1eb04dc1e17a1dd8e3d5.gif" min-width="400px"
+    max-width="400px" width="400px" align="right">
 ---
 
 ### Languages and Tools 🛠
