@@ -13,7 +13,7 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/00/05/3b/00053bfd16ab1eb04dc1e17a1dd8e3d5.gif" min-width="400px"
-    max-width="900px" width="700px" align="right">
+    max-width="550px" width="450px" align="right"> <br/>
 ---
 
 ### Languages and Tools 🛠
@@ -21,13 +21,13 @@
 <div>
     <img align=top
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        width="40" height="40" />
+        width="40" height="40" /> <br/>
     <img align=top src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
-        width="40" height="40" />
+        width="40" height="40" /> <br/>
     <img align=top src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40"
-        height="40" />
+        height="40" /> <br/>
     <img align=top src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"
-        height="40" />
+        height="40" /> <br/>
     <img align=top src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"
-        height="40" />
+        height="40" /> <br/>
 </div>
