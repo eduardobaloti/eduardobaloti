@@ -13,7 +13,7 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/00/05/3b/00053bfd16ab1eb04dc1e17a1dd8e3d5.gif" min-width="300px"
-    max-width="500px" width="420px" height="300" align="right">
+    max-width="500px" width="420px" height="200" align="right">
 ---
 
 ### Languages and Tools 🛠
