@@ -20,7 +20,9 @@
     align="right"
 />
 
---- ### Languages and Tools 🛠
+--- 
+
+### Languages and Tools 🛠
 
 <div style="vertical-align: middle">
     <br />
