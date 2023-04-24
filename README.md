@@ -18,7 +18,7 @@
 
 ### Languages and Tools 🛠
 
-<div style="vertical-align: baseline"><br>
+<div style="display: flex; flex-direction: column" ><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="Unity" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"
