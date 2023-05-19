@@ -1,7 +1,7 @@
 ## Hii, My name is Eduardo and I work as Back-end and GameDev
 
 <p align="left">
-    ♟ My main technology is C# but I like to use typescript, python and Go too
+    ♟ My main technology is C# but I know some typescript, python and Go too
 </p>
 
 <p align="left">📚 I started programming games with 14 years old</p>
